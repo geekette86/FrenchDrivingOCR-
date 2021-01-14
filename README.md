@@ -1,8 +1,8 @@
 # FrenchDrivingOCR-
 
 A Draft code to extract Text from new french driving licence using 
- 1- Easy OCR
- 2- Opencv 
+ 1. EasyOCR
+ 2. Opencv 
  
  ##Result
  
