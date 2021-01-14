@@ -9,4 +9,5 @@ A Draft code to extract Text from new french driving licence using
  ![Image](https://github.com/geekette86/FrenchDrivingOCR-/blob/master/screenshot.png)
  
  # To do
-  Convert it to api with flask & Better result 
+  1. Convert it to api with flask 
+  2. Better result 
